@@ -1,2 +1,2 @@
 # clone-tabnews
-really learning
+Implementation of https://tabnews.com.br for https://curso.dev
